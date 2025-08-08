@@ -16,11 +16,6 @@ RECO es una aplicación full-stack multiplataforma para la gestión integral de 
 - 📱 **App móvil multiplataforma** (Android/iOS)
 - 🔄 **Comunicación en tiempo real** con API REST
 
-## 🚀 Demo
-
-- **Backend API**: [https://reco-api.render.com](https://reco-api.render.com)
-- **APK Android**: [Descargar última versión](https://github.com/tu-usuario/reco/releases)
-
 ## 🛠️ Stack Tecnológico
 
 ### Frontend (React Native)

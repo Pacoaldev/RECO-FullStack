@@ -211,7 +211,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 **Paco López**
 - GitHub: [@Fralopala2](https://github.com/Fralopala2)
 - LinkedIn: [Perfil](https://www.linkedin.com/in/fmlalinked)
-- Email: pacoaldevl@gmail.com
+- Email: pacoaldev@gmail.com
 
 ## 🙏 Agradecimientos
 
